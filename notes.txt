@@ -1,0 +1,5 @@
+npx: executa binários das bibliotecas de nossa node_modules
+     que estão em ./node_modules/bin/
+
+tsx: somente em desenvolvimento
+
